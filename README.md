@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TURBO APEX: Computer Graphics Car Racing Game
 
 An arcade pseudo-3D car racing game developed in Python and Pygame for an academic Computer Graphics mini-project.
@@ -222,3 +223,6 @@ This section is prepared for your Computer Graphics viva examination:
 
 ## 8. License & Academic Attribution
 Created for Computer Graphics mini-project submission. Free to use, modify, and extend for educational purposes.
+=======
+# Turbo_Apex_Game
+>>>>>>> 8210363b80ccde7dae91cc5e18a6f57828839181
